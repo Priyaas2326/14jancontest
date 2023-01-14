@@ -1,0 +1,96 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: black;
+  color: white;
+}
+h3{
+  position: relative;
+  margin-top: 50px;
+  margin-left: 30px;
+  margin-bottom: 15px;
+}
+
+input {
+  margin: 5px;
+  color: white;
+
+}
+
+.boxes{
+  display: flex;
+  margin-left: 30px;
+  margin-bottom: 15px;
+  height: 70%;
+    
+}
+button{
+  margin-left: 30px;
+  width: 120px;
+  height: 32px;
+  margin-bottom: 15px;
+
+}
+#buton{
+  box-sizing: border-box;
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+width: 375px;
+height:42px;
+text-size-adjust: 45px;
+
+}
+.lower-text{
+  margin-left: 30px;
+  margin-top:20px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  margin-right: 250px;
+}
+
+table {
+  width: 50%;
+  margin-left: 30px;
+}
+#a{
+  margin-left: 30px;
+  margin-top: 10px;
+}
+#name{
+  background-color: black;
+  width: 320px;
+ 
+  border-width: 1px;
+}
+#profession{
+  background-color: black;
+  width: 320px;
+  
+}
+#age{
+  background-color:black;
+  width: 320px;
+}
+input{
+box-sizing: border-box;
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+width: 375px;
+height:42px;
+text-size-adjust: 45px;
+
+}
+#tb{
+box-sizing: border-box;
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+width:90%;
+height:42px;
+text-size-adjust: 95px;
+
+}
